@@ -1,4 +1,4 @@
-import pandas as pd # to import excel files
+import pandas as pd
 import numpy as np
 
 # A simple form of merging two DataFrames column-wise
